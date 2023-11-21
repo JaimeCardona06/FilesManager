@@ -8,7 +8,7 @@ import os
 from Clases.Tree import Tree 
 import shutil
 
-path = "D:/Universidad de Caldas/Tercer Semestre/Estructura de Datos/C"
+path = "./C"
 
 root = Tk()
 root.geometry("1086x670")
